@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages from Peanuts #2
+## Welcome to GitHub Pages from Peanuts
 
 You can use the [editor on GitHub](https://github.com/Peanuts-83/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
